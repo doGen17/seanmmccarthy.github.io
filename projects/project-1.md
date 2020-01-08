@@ -26,8 +26,7 @@ summary: My team developed a Game for our Major Project, and changed engines par
   <img class="ui image" src="../images/mellowmares/Screencap_10.png">
 </div>
 
-# Whoops I accidentally wrote a post-mortem instead of a project Summary give me one second
-
+# note: moving this wall of to the essays section as it kind of turned into a postmortem
 
 The Major Production Project starts with game pitches. Where students from all three streams had a chance to pitch ideas to the teachers, students and a panel of industry veterans (folks from GamesPlus). After the first round we each joined two projects of our choice to work on our pitches to the industry. After two weeks of highly confused prototyping and one day of presenting to the industry panel, we had our major projects f
 
