@@ -7,7 +7,7 @@
     "website": "https://seanmmccarthy.github.io",
     "summary": "Detail-oriented Programming major currently attending Academy Of Interactive Entertainment. Expecting to graduate April 17th 2020.",
     "location": {
-      "address": "",
+      "address": "1/8 Hansel Pl",
       "postalCode": "2906",
       "city": "Canberra",
       "countryCode": "AU",
@@ -21,6 +21,7 @@
       },
       {
         "network": "LinkedIn",
+        "username":  "Sean McCarthy",
         "url": "https://www.linkedin.com/in/sean-mccarthy-294325197/"
       },
       {
@@ -43,7 +44,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "3",
       "keywords": [
         "C++",
         "C#",
@@ -53,7 +54,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
+      "level": "3",
       "keywords": [
         "Windows",
         "Git/GitHub",

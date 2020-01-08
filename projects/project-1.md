@@ -1,44 +1,48 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/mellowmares/MellowMares_Proj.png
+title: MellowMares
+permalink: projects/mellowmares
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2019-12-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Unity
+  - Unreal 4
+summary: My team developed a Game for our Major Project, and changed engines partway through
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/mellowmares/size_change.gif">
+  <img class="ui image" src="../images/mellowmares/Screencap_1.png">
+  <img class="ui image" src="../images/mellowmares/Screencap_2.png">
+  <img class="ui image" src="../images/mellowmares/Screencap_3.png">
+  <img class="ui image" src="../images/mellowmares/Screencap_4.png">
+  <img class="ui image" src="../images/mellowmares/Screencap_5.png">
+  <img class="ui image" src="../images/mellowmares/Screencap_6.png">
+  <img class="ui image" src="../images/mellowmares/Screencap_7.png">
+  <img class="ui image" src="../images/mellowmares/Screencap_8.png">
+  <img class="ui image" src="../images/mellowmares/Screencap_9.png">
+  <img class="ui image" src="../images/mellowmares/Screencap_10.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+The Major Production Project starts with game pitches. Where students from all three streams had a chance to pitch ideas to the teachers, students and a panel of industry veterans (folks from GamesPlus). After the first round we each joined two projects of our choice to work on our pitches to the industry. After two weeks of highly confused prototyping and one day of presenting to the industry panel, we had our major projects f
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+When discussing a good example from the previous year the teachers pointed out the importance of having gameplay as a proof-of-concept, so naturally we all left the presentations to the last minute and focused on the prototypes. I did some nice work for the other one, which never made it into the prototype. For MellowMares my focus was on the traps and health system (only two survived the switch to unreal, health system was scrapped). 
+Following the prototyping we were able to work on a single game, mellowMares in my case.
+We would take the lessons learnt from the prototyping phase, organize and plan out our game, get the new team members up to speed, make a schedule, update our design docs, then begin making the game.
 
-Here is some code that illustrates how we read values from the line sensors:
+Of couse, we didn't do any of those things. The lead programmer didn't even make a Technical Document. It took about 3 weeks for me to realise that *I* was the lead programmer. Our other programmer had a lot of scheduling issues. We perhaps should have cut or simplified some features, but instead I tried to make the player character exactly as the design doc described it, even though a few simple tweaks would have made the whole thing a lot more manageable.
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+For this project, I was the lead programmer who was responsible for programming the various capabilities of the Player Character.
+I started by [1].  From there, I then programmed the [2].
+[description of (2)].  I also programmed basic algorithms used to [...] such as a [...].  
+From there I worked on a [...] to help the [...], and to [...].  We finished with [...] within our college.
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+Here is some code that illustrates [...]:
+
+
+Download links and more info is availble [on the games' itch.io page](https://mellowmares.itch.io/mellowmares).
 
 
 
