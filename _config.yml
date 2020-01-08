@@ -8,6 +8,8 @@ url: "https://seanmmccarthy.github.io"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
 baseurl: ""
 
+logo: "/images/logo.png"
+
 # OPTIONAL CHANGES
 # You might want to change the bio page label to something else, such as CV
 bio-page-label: Resume
