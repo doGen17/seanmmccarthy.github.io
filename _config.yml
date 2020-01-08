@@ -8,11 +8,9 @@ url: "https://seanmmccarthy.github.io"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
 baseurl: ""
 
-logo: "/images/logo.png"
-
 # OPTIONAL CHANGES
 # You might want to change the bio page label to something else, such as CV
-bio-page-label: Resume
+bio-page-label: CV
 # You might want to change the theme associated with one or more sections of the site.
 # Defining your own custom theme variations is easy. See the documentation.
 theme-home: theme-home-builtin-1.html
