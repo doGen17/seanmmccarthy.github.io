@@ -1,7 +1,6 @@
 ---
 layout: project
 type: project
-image: 
 title: Thief
 permalink: projects/thiefgame
 # All dates must be YYYY-MM-DD format!
