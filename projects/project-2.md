@@ -5,7 +5,7 @@ image: images/RayTracing/reflections.JPG
 title: Ray-Tracing in Unity
 permalink: projects/raytracing
 # All dates must be YYYY-MM-DD format!
-date: 2019-8-1
+date: 2019-08-01
 labels:
   - Unity
   - Graphics

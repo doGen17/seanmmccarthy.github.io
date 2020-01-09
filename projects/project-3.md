@@ -5,7 +5,7 @@ image: images/caveCells.gif
 title: Caves
 permalink: projects/caves
 # All dates must be YYYY-MM-DD format!
-date: 2019-10-1
+date: 2019-10-01
 labels:
   - Demo
   - GitHub
