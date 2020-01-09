@@ -11,8 +11,8 @@ labels:
 summary: tiny stealth game about stealing things
 ---
 
-> Screenshots pending.
+`Screenshots pending.`
 
 a demo project I made for prototyping [Child of the Night]. Nothing shown here made it into the game in any form sadly, 'twas a chaotic time.
 
-> source code pending, I was using Unity Collab for some ungodly reason.
+`source code pending, back then I was using Unity Collab for some ungodly reason.`

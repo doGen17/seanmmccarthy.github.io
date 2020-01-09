@@ -20,7 +20,7 @@ summary: A Ray-Traced Rendering Demo made in Unity
   <img class="ui image" src="../images/RayTracing/reflections.JPG">
   <img class="ui image" src="../images/RayTracing/Shading.JPG">
   <img class="ui image" src="../images/RayTracing/spheresDark.JPG">
-  <img class="ui image" src="../images/RayTracing/PhongLambert.JPG">
+  <img class="ui image" src="../images/RayTracing/PhongLambert.PNG">
 </div>
 
 This is a project I made to learn compute shaders and rendering in Unity.
