@@ -26,7 +26,7 @@ summary: My team developed a Game for our Major Project, and changed engines par
   <img class="ui image" src="../images/mellowmares/Screencap_10.png">
 </div>
 
-# note: moving this wall of to the essays section as it kind of turned into a postmortem
+# note: Going to move this wall of text to the essays section, as it kind of turned into a postmortem
 
 The Major Production Project starts with game pitches. Where students from all three streams had a chance to pitch ideas to the teachers, students and a panel of industry veterans (folks from GamesPlus). After the first round we each joined two projects of our choice to work on our pitches to the industry. After two weeks of highly confused prototyping and one day of presenting to the industry panel, we had our major projects f
 
@@ -37,7 +37,7 @@ We would take the lessons learnt from the prototyping phase, organize and plan o
 Of couse, we didn't do any of those things. The lead programmer didn't even make a Technical Document. It took about 3 weeks for me to realise that *I* was the lead programmer. Our other programmer had a lot of scheduling issues. We perhaps should have cut or simplified some features, but instead I tried to make the player character exactly as the design doc described it, even though a few simple tweaks would have made the whole thing a lot more manageable.
 
 
-<img class="ui image" src="../images/mellowmares/size_change.gif">
+<img class="ui image small" src="../images/mellowmares/size_change.gif">
 Eventually, the Unity Project was coming together, but progress was still slow, Unity was a very code-heavy engine and I was the only full-time person who knew how to code. I'm not the fastest at it either, I tend to refactor and experiment a lot. 
 Meanwhile none of the 3 artists had experience in Unity, the designers were hacking animations togther in-engine, and the UI was done by me in MS-Paint.
 So the teachers proposed a bold plan: grab the assets, move to Unreal Engine 4, and start anew. 
