@@ -13,6 +13,10 @@
       "countryCode": "AU",
       "region": "ACT"
     },
+    "interests": [
+      "Cellular Automata",
+      "Rendering"
+    ],
     "profiles": [
       {
         "network": "GitHub",
@@ -37,7 +41,7 @@
       "area": "Games Programming",
       "studyType": "Advanced Diploma",
       "startDate": "2018-01-01",
-      "endDate": "2020-01-20",
+      "endDate": "2019-12-12",
       "gpa": ""
     }
   ],
@@ -62,5 +66,8 @@
         "Trello"
       ]
     }
+  ],
+  "tools": [
+    "Just Checking to see if this actually shows up."
   ]
 }
