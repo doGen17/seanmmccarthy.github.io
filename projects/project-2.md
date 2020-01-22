@@ -12,21 +12,24 @@ labels:
   - Demo
 summary: A Ray-Traced Rendering Demo made in Unity
 ---
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/RayTracing/Spheres.JPG">
-  <img class="ui image" src="../images/RayTracing/Distribution.JPG">
-  <img class="ui image" src="../images/RayTracing/Skybox.JPG">
-  <img class="ui image" src="../images/RayTracing/colour.JPG">
-  <img class="ui image" src="../images/RayTracing/reflections.JPG">
-  <img class="ui image" src="../images/RayTracing/Shading.JPG">
-  <img class="ui image" src="../images/RayTracing/spheresDark.JPG">
-  <img class="ui image" src="../images/RayTracing/PhongLambert.PNG">
-</div>
 
 This is a project I made to learn compute shaders and rendering in Unity.
 
 source code is on github, maybe, I don't know I'm very tired and unprofessional right now.
-Good thing I'm not showing this to anyone eh?
 
+<img class="ui image medium" src="../images/RayTracing/Spheres.JPG">
+Getting the normals.
+<img class="ui image medium" src="../images/RayTracing/colour.JPG">
+Adding colors and a Skybox.
+<img class="ui image medium" src="../images/RayTracing/Distribution.JPG">
+Spheres with random colors and positions.
+<img class="ui image medium" src="../images/RayTracing/reflections.JPG">
+lighting and reflection
+<img class="ui image medium" src="../images/RayTracing/Shading.JPG">
+Specular light and color.
+<img class="ui image medium" src="../images/RayTracing/spheresDark.JPG">
+Emissive materials in a dark scene.
+<img class="ui image medium" src="../images/RayTracing/PhongLambert.PNG">
+The Final Product.
 
- 
+also there are polygons but I don't have screenshot of them.

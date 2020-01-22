@@ -11,12 +11,12 @@
       "postalCode": "2906",
       "city": "Canberra",
       "countryCode": "AU",
-      "region": "ACT"
+      "region": "ACT",
+      "interests": [
+        "Cellular Automata",
+        "Rendering"
+      ]
     },
-    "interests": [
-      "Cellular Automata",
-      "Rendering"
-    ],
     "profiles": [
       {
         "network": "GitHub",
